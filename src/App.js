@@ -100,7 +100,7 @@ class App extends Component {
                     getUserRepos={this.getUserRepos}
                     repos={repos}
                     user={user}
-                    loaing={loading}
+                    loading={loading}
                   />
                 )}
               />
